@@ -3,4 +3,4 @@
 
  Repositório criado na aula de Git e Github.
 
-Essa linha adicionei diretamente no site! IMPRECIONANTE.
+Essa linha adicionei diretamente no site! IMPRESSIONANTE.
